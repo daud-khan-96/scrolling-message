@@ -1,2 +1,2 @@
 # scrolling-message
-See ScrollMessage.vhd for VHDL Code
+See ScrollingMessage.vhd for VHDL Code
